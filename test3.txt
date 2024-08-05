@@ -1,3 +1,4 @@
+// printf() and scanf() in a single line
 #include<stdio.h>
 int main()
 {
